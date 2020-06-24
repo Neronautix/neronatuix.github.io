@@ -1,4 +1,4 @@
-#TI 2020 Battlepass
+# TI 2020 Battlepass
 Aktuelles Level: 183
 Level|Belohnung    
 ---|---
