@@ -1,1 +1,1 @@
-[Node](../node.md)
+[Node](../blob/master/node.md)
