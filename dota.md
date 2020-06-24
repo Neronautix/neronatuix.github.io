@@ -8,5 +8,5 @@ Level|Belohnung
 255 | Pudge Persona
 305 | Anti Mage Persona
 375 | Wraith King Arcana
-??? | Queen of Pain Arcana
+445 | Queen of Pain Arcana
 575 | Windranger Arcana
