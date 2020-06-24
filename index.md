@@ -1,1 +1,1 @@
-[Node](../blob/master/node.md)
+[Node](http://neronautix.github.io/node)
